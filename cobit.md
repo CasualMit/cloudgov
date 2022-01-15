@@ -2,16 +2,9 @@
 - [COBIT](#cobit)
 - [COBIT 2019](#cobit-2019)
   - [Is COBIT compleet?](#is-cobit-compleet)
+  - [](#)
 - [Bronnen](#bronnen)
 
-```
-[X] Wat dit nu voor standasard/framework is.
-[ ] Hoe dit bijdraagt aan de governance van cloud processen, componenten, services, business en de mensen die ermee werken.
-[X] Is het compleet, dat wil zeggen: Worden alle aspecten die met Governance te maken hebben afgedekt?
-[ ] Wat zijn de sterke punten en wat is minder goed?
-[ ] Wat doen de grote public cloud providers eigenlijk met deze standaard/framework? 
-    [ ] Conformeren zij zich hieraan?
-```
 # COBIT
 COBIT (Control Objectives for Information and Related Technologies) een framework dat door ISACA (Information Systems Audit and Control Association) is ontwikkeld in 1992. In een Executive summary van ISACA omschrijven zij COBIT alsvolgt:
  -  Een framework voor governance en management van enterprise I&T.
@@ -74,6 +67,8 @@ Als objective is te zien dat het zoals in figuur 2 allemaal "Governance objectiv
 Op basis van de informatie en bronnen die in dit document zijn behandelt is te zien dat COBIT een compleet framework is die veel ondersteuning biedt in de keuzes die een onderneming moet maken. COBIT Zorgt ervoor dat de ondermening deze keuzes wel echt zelf maakt.
 
 Wat COBIT niet doet is technolgie behandelen dus wanneer je kijkt naar bijvoorbeeld AWS of Microsift Azure die nemen in hun framework ook cloud techniek mee. COBIT laat dit in het midden liggen ze bieden wel ondersteuning voor cloud en het is ook toepasbaar op in de cloud. Maar dat komt omdat ze nadruk leggen op het creëeren van waarde met de technologie waarover een onderneming beschikt.
+
+## 
 
 
 # Bronnen
