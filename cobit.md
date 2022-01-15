@@ -4,9 +4,13 @@
 [https://github.com/CasualMit/cloudgov](https://github.com/CasualMit/cloudgov)
 
 Hogeschool Utrecht
+
 DU3A
+
 Mitchell Huitema 1758032
+
 Sherwin Kooij 
+
 
 - [Week 6 Les 1: Governance Frameworks](#week-6-les-1-governance-frameworks)
   - [COBIT Framework](#cobit-framework)
