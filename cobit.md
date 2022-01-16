@@ -22,7 +22,7 @@ Sherwin Kooij
 - [Bronnen](#bronnen)
 
 # COBIT
-COBIT (Control Objectives for Information and Related Technologies) een framework dat door ISACA (Information Systems Audit and Control Association) is ontwikkeld in 1992. In een [Executive summary](COBIT%202019%20Executive%20Summary_v1.1%20.pdf) van ISACA omschrijven zij COBIT als volgt:
+COBIT (Control Objectives for Information and Related Technologies) een framework dat door ISACA (Information Systems Audit and Control Association) is ontwikkeld in 1992. In een [Executive summary](bronnen/COBIT%202019%20Executive%20Summary_v1.1%20.pdf) van ISACA omschrijven zij COBIT als volgt:
  -  Een framework voor governance en management van enterprise I&T.
  -  COBIT definieert de componenten om een governance systeem te bouwen en onderhouden.
  -  COBIT definieert de ontwerpfactoren die door de onderneming moeten worden overwogen om een passend governance systeem te bouwen.
@@ -49,9 +49,9 @@ COBIT is flexibel dat is te merken doordat ze regelmatig updaten en hierbij kijk
 <div style="page-break-after: always;"></div>
 
 # COBIT 2019
-COBIT is zoals eerder benoemd de meest recente versie van COBIT. Er zijn zes "governance system principles" en drie "governance framework principles". ISACA heeft [pdf](COBIT%202019%20Overview_v1.1.pdf) waarin COBIT 2019 globaal wordt uitgelegd.
+COBIT is zoals eerder benoemd de meest recente versie van COBIT. Er zijn zes "governance system principles" en drie "governance framework principles". ISACA heeft [pdf](bronnen/COBIT%202019%20Overview_v1.1.pdf) waarin COBIT 2019 globaal wordt uitgelegd.
 
-![COBIT 2019 Principles](cobitprinciples.png)
+![COBIT 2019 Principles](images/cobitprinciples.png)
 
 Figuur 1 COBIT 2019 Principles
 
@@ -59,7 +59,7 @@ Naast deze principes zijn er beheer en management doelen, die zijn te zien in Fi
 - De governance objectives zorgen ervoor dat Stakeholder eisen en wensen worden geëvalueerd en overeenkomen met de doelen van de onderneming.
 - De management objectives; plannen, bouwen, voeren uit, en monitoren of alles overeenkomt met de governance objectives.
 
-![Doelen](objectives.png)
+![Doelen](images/objectives.png)
 
 Figuur 2 COBIT Objectives
 Zoals eerder benoemd zijn er 40 objectives die vallen onder de bovenstaande objectives. Deze processen zijn allemaal volledig omschreven en opgenomen in het COBIT 2019 Governance System Design Workbook. In de onderstaande video omschrijft Mark Thomas hoe dit werkboek precies werkt. Hierin kan je zien dat het een soort tool is waarmee COBIT je ondersteunt in het creëren  van een beleid dat nadruk legt op wat belangrijk is in jouw onderneming.
